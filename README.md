@@ -1,6 +1,6 @@
 # De prompt a JSON
 
-## Índice
+## Índice.
 
 - [1. Consideraciones generales](#1-consideraciones-generales)
 - [2. Preámbulo](#2-preámbulo)
