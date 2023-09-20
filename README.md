@@ -1,4 +1,4 @@
-## De prompt a JSON
+# De prompt a JSON
 
 ## Índice
 
